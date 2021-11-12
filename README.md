@@ -1,5 +1,5 @@
 # JavaWebBookProject
-JavaWeb书城项目，整个项目搭建过程，可以到我[博客](cbwblog.top)浏览
+JavaWeb书城项目，整个项目搭建过程，可以到我[博客](http://cbwblog.top)浏览
 # 技术栈
 - 前端技术：html+css+javascript
 - 后端技术：jsp+servlet+JDBC
