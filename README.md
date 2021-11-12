@@ -14,3 +14,5 @@ JavaWeb书城项目，整个项目搭建过程，可以到我[博客](http://cbw
 3. web/static是静态资源
 4. web/WEB-INF/web.xml配置文件
 5. web/WEB-INF/lib第三方jar包
+# 使用方法
+将book模块部署到Tomcat服务器上，点击运行即可。
